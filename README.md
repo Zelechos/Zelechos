@@ -1,6 +1,6 @@
 # Hola soy Alex Tumiri Huanca (Pragmatic Coder) <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
 
-![](https://www.magic.fr/wp-content/uploads/elementor/thumbs/Un-groupe-de-hackers-cr%C3%A9e-son-propre-VPN%E2%80%8B-ompghk7nqg6m3yy7uhskjfy59qkssqm4pzlvhlksy0.png)
+<img src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="javascript" width="150" height="150"/>
 
 ### Soy un Programador de webs en el Dia, un programador y cientifico de datos por la tarde y hacker por la noche 😎
 
