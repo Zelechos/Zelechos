@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="600"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="450"/>
 
 ## Estadisticas 👨‍💻
 #### Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo [Pragmatic_JavaScript](https://github.com/Zelechos/Pragmatic_JavaScript) cuyo proposito es apoyar en aprendizaje en esta tecnologia.
