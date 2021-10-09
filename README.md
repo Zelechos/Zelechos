@@ -1,10 +1,51 @@
+
+
 # Hola soy Alex Tumiri Huanca (Pragmatic Coder) <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="pragmatic coder logo" width="100"/>
+
+<a href="https://www.linkedin.com/in/alex-tumiri-huanca-6462851b0/" target="_blank" >
+  <img align="center" 
+       alt="Linkdein" 
+       width="35px" 
+       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
+</a>
+
+<a href="https://www.facebook.com/PragmaticCodersGroup" target="_blank" >
+  <img align="center" 
+       alt="Facebook" 
+       width="35px" 
+       src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />
+</a>
+
+<a href="https://www.instagram.com/pragmatic_coder/" target="_blank" >
+  <img align="center" 
+       alt="Facebook" 
+       width="35px" 
+       src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
+</a>
+
+<a href="https://twitter.com/CoderPragmatic" target="_blank" >
+  <img align="center" 
+       alt="Facebook" 
+       width="35px" 
+       src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1633803900~hmac=013541ba90d34f0acee1639ba13bc2c8" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCQ1D3FO4ICg6SVivOTwIe4w" target="_blank" >
+  <img align="center" 
+       alt="Facebook" 
+       width="35px" 
+       src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
+</a>
+
+<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="pragmatic coder logo" width="100"/> -->
 
 ### Soy un Programador de webs en el Dia, un programador y cientifico de datos por la tarde y hacker por la noche 😎
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="450"/>
 
@@ -12,7 +53,8 @@
 #### Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo [Pragmatic_JavaScript](https://github.com/Zelechos/Pragmatic_JavaScript) cuyo proposito es apoyar en aprendizaje en esta tecnologia.
 <!-- ![Zelechos github stats](https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true) -->
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos" alt="javascript" width="350" />
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos) -->
@@ -42,17 +84,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" /> -->
 </p>
 
-<!--
-**Zelechos/Zelechos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
