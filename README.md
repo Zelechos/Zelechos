@@ -1,14 +1,25 @@
 # Hola soy Alex Tumiri Huanca (Pragmatic Coder) <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
 
-<img src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="javascript" width="150" height="150"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="pragmatic coder logo" width="100"/>
 
 ### Soy un Programador de webs en el Dia, un programador y cientifico de datos por la tarde y hacker por la noche 😎
 
-## Estadisticas 👨‍💻
-![Zelechos github stats](https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Lenguajes 🚀
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="600"/>
+
+## Estadisticas 👨‍💻
+#### Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo [Pragmatic_JavaScript](https://github.com/Zelechos/Pragmatic_JavaScript) cuyo proposito es apoyar en aprendizaje en esta tecnologia.
+<!-- ![Zelechos github stats](https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true) -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos" alt="javascript" width="350" />
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos) -->
+
+## Tech Skills 🚀
+#### Estoy en mi Flujo de Programacion Constatemente alrededor de 5 horas por dia aprendiendo por diversion y de manera seria nuevas tecnologias y constamente conbuyendo en la creacion de nuevos repositorios y muchos codigoo en github actualmente estoy retomando el lenguaje JavaScript y profundizando en el mismo 
+
 
 <h2>Skills Stack 🔥</h2>
 <p align="left">
