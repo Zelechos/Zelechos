@@ -18,7 +18,7 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos) -->
 
 ## Tech Skills 🚀
-#### Estoy en mi Flujo de Programacion Constatemente alrededor de 5 horas por dia aprendiendo por diversion y de manera seria nuevas tecnologias y constamente conbuyendo en la creacion de nuevos repositorios y muchos codigoo en github actualmente estoy retomando el lenguaje JavaScript y profundizando en el mismo 
+#### Estoy en mi Flujo de Programacion constantemente alrededor de 5 horas por dia aprendiendo por diversion y de manera seria nuevas tecnologias y contribuyendo en la creacion de nuevos repositorios y codigo en github actualmente estoy retomando el lenguaje JavaScript y profundizando en el mismo 
 
 
 <h2>Skills Stack 🔥</h2>
