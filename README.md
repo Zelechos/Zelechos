@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/alex-tumiri-huanca-6462851b0/" target="_blank" >
   <img align="center" 
-       alt="Linkdein" 
+       alt="Linkedin" 
        width="35px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
 </a>
@@ -19,21 +19,21 @@
 
 <a href="https://www.instagram.com/pragmatic_coder/" target="_blank" >
   <img align="center" 
-       alt="Facebook" 
+       alt="Instagram" 
        width="35px" 
        src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 </a>
 
 <a href="https://twitter.com/CoderPragmatic" target="_blank" >
   <img align="center" 
-       alt="Facebook" 
+       alt="Twitter" 
        width="35px" 
        src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1633803900~hmac=013541ba90d34f0acee1639ba13bc2c8" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCQ1D3FO4ICg6SVivOTwIe4w" target="_blank" >
   <img align="center" 
-       alt="Facebook" 
+       alt="Youtube" 
        width="35px" 
        src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
 </a>
