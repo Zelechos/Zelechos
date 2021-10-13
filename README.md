@@ -28,7 +28,7 @@
   <img align="center" 
        alt="Twitter" 
        width="35px" 
-       src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1633803900~hmac=013541ba90d34f0acee1639ba13bc2c8" />
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCQ1D3FO4ICg6SVivOTwIe4w" target="_blank" >
