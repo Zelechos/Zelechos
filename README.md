@@ -10,6 +10,14 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
 </a>
 
+
+<a href="alextumirihuanca@gmail.com" target="_blank" >
+  <img align="center" 
+       alt="Gmail" 
+       width="35px" 
+       src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
+</a>
+
 <a href="https://www.facebook.com/PragmaticCodersGroup" target="_blank" >
   <img align="center" 
        alt="Facebook" 
