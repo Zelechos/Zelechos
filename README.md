@@ -11,7 +11,7 @@
 </a>
 
 
-<a href="alextumirihuanca@gmail.com" target="_blank" >
+<a href="https://alextumirihuanca@gmail.com" target="_blank" >
   <img align="center" 
        alt="Gmail" 
        width="35px" 
