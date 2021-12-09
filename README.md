@@ -1,15 +1,16 @@
 
 
 # Hola soy Alex Tumiri Huanca (Pragmatic Coder) <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<img align="center" src="https://raw.githubusercontent.com/Zelechos/Zelechos/main/bannerReadMe.jpg" alt="javascript" width="1000"/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-
-<a href="https://www.linkedin.com/in/alex-tumiri-huanca-6234b3195/" target="_blank" >
+<a href="https://www.linkedin.com/in/alex-tumiri-huanca-6234b3195/" target="_blank">
   <img align="center" 
        alt="Linkedin" 
        width="35px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
 </a>
-
 
 <a href="mailto:alextumirihuanca@gmail.com" target="_blank" >
   <img align="center" 
