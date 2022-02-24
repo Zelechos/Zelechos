@@ -60,7 +60,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="450"/>
 
 ## Estadisticas 👨‍💻
-#### Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo [GeneradorCss](https://github.com/Zelechos/Generador-Css) cuyo proposito es desarrollar un modelo de IA para generar estilos CSS.
+#### Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo [Pragmatic_JavaScript](https://github.com/Zelechos/Pragmatic_JavaScript) cuyo proposito es aprender javascript de manera pragmatica con mucho codigo.
 <!-- ![Zelechos github stats](https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true) -->
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
