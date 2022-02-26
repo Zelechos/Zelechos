@@ -60,7 +60,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="450"/>
 
 ## Estadisticas 👨‍💻
-#### Trabajando muchos en mejorar la mis estadisticas y en contribuir al open source de manera proactiva, mientras me concentro en aprender dia tras dias nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio de codigo [Pragmatic_JavaScript](https://github.com/Zelechos/Pragmatic_JavaScript) cuyo proposito es aprender javascript de manera pragmatica con mucho codigo.
+#### Trabajando mucho en mejorar mis conocimientos y en contribuir al open source de manera proactiva, mientras me dedico a aprender dia tras dia nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio [Pragmatic_JavaScript](https://github.com/Zelechos/Pragmatic_JavaScript) cuyo proposito es aprender javascript de manera pragmatica con mucho codigo y muchos  comentarios en el codigo para que puedan aprender JavaScript.
 <!-- ![Zelechos github stats](https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true) -->
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
