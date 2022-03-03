@@ -51,7 +51,7 @@
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!-- <img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="pragmatic coder logo" width="100"/> -->
 
-### Soy un Programador de webs en el Dia, Cientifico de datos por la tarde y Hacker por la noche 😎
+### Soy un Programador Frontend en el Dia, Cientifico de datos por la tarde y Hacker por la noche 😎
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
