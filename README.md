@@ -3,7 +3,12 @@
 # Hola soy Alex Tumiri Huanca (Pragmatic Coder) <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<img align="center" src="https://raw.githubusercontent.com/Zelechos/Zelechos/main/bannerReadMe.jpg" alt="javascript" width="1000"/>
+<img align="left" width="250" src="https://raw.githubusercontent.com/Zelechos/Zelechos/main/automata.jpg"/>
+
+<br><br>
+### *"Un hombre provisto de papel, lápiz y goma, y con sujeción a una disciplina estricta, es en efecto una máquina de Turing universal."*
+*Alan Turing.*
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <a href="https://www.linkedin.com/in/alex-tumiri-huanca-6234b3195/" target="_blank">
