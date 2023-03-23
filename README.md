@@ -64,7 +64,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true" alt="javascript" width="450"/>
 
 ## Estadisticas 👨‍💻
-#### Trabajando mucho en mejorar mis conocimientos y en contribuir al open source de manera proactiva, mientras me dedico a aprender dia tras dia nuevas tecnologias y otros skills actualmente estoy contribuyendo mucho en mi repositorio [Algoritmia](https://github.com/Zelechos/Algoritmia) cuyo proposito es aprender javascript de manera pragmatica con mucho codigo y muchos  comentarios en el codigo para que puedan aprender JavaScript.
+#### Trabajando mucho en mejorar mis conocimientos y en contribuir al open source de manera proactiva, mientras me dedico a aprender dia tras dia nuevas tecnologias y otros skills actualmente estoy contribuyendo en mi repositorio [Pragmatic_Java](https://github.com/Zelechos/Pragmatic_Java) cuyo proposito es aprender Java de manera pragmatica con mucho codigo y muchos comentarios en el codigo para que puedan aprender Java.
 <!-- ![Zelechos github stats](https://github-readme-stats.vercel.app/api?username=Zelechos&show_icons=true) -->
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
@@ -74,7 +74,7 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelechos) -->
 
 ## Tech Skills 🚀
-#### Estoy en mi Flujo de Programacion constantemente alrededor de 5 horas por dia aprendiendo por diversion y de manera seria nuevas tecnologias y contribuyendo en la creacion de nuevos repositorios y codigo en github actualmente estoy retomando el lenguaje JavaScript y profundizando en el mismo 
+#### Estoy en mi Flujo de Programacion constantemente alrededor de 5 horas por dia aprendiendo por diversion y de manera seria nuevas tecnologias y contribuyendo en la creacion de nuevos repositorios y codigo en github actualmente estoy retomando el lenguaje Java y profundizando en el mismo.
 
 
 <h2>Skills Stack 🔥</h2>
