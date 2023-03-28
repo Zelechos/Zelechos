@@ -1,6 +1,6 @@
 
 
-# Hola soy Alex T.H. <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
+# Hola soy Alex T. H. <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
